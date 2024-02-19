@@ -1,0 +1,64 @@
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train189.txt
+A person wave arm while walk to stairs , then take a right turn and ascend .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train190.txt
+A person wave arm while walk to stairs , then take a right turn and ascend .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train196.txt
+Person walk downstairs , clap , low leave hand , raise right to touch head .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train196.txt
+After a distance of walk downstairs from the staircase , the person clap his hand , low his left hand , and raise his right hand to touch his head .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train196.txt
+A person clap , low leave hand , raise right hand to touch head after walk downstairs .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train197.txt
+Person walk downstairs , clap , low leave hand , raise right to touch head .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train426.txt
+He run downstairs , turn right , and sprint with arm swing .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train427.txt
+He run downstairs , turn right , and sprint with arm swing .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train566.txt
+After go downstairs , he slightly turn to the right and raise his right hand . After descend the stair , the person turn right slightly and lift his right hand .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train567.txt
+After go downstairs , he slightly turn to the right and raise his right hand . After descend the stair , the person turn right slightly and lift his right hand .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train852.txt
+A person ran , turn leave , then slow and walk to stairs .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train853.txt
+A person ran , turn leave , then slow and walk to stairs .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train1060.txt
+A person swung arm , step down stairs , then turn left .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train1061.txt
+A person swung arm , step down stairs , then turn left .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train1478.txt
+Person rise , bow head , and walk to stairs .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train1479.txt
+Person rise , bow head , and walk to stairs .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train1483.txt
+A person bring arm forward , then back , then push and spread them , swing them back , and bend head to walk to stairs .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train1569.txt
+The person swing both arm to the right , take a half turn , then come up to the staircase , support the handrail with his left hand and proceeding upstairs .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train1586.txt
+A person lower his head , swung leave arm , and step down stairs , take right hand off handrail . Right arm lift above first step , head lift and body shift leave .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train1587.txt
+A person lower his head , swung leave arm , and step down stairs , take right hand off handrail . Right arm lift above first step , head lift and body shift leave .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train2292.txt
+The individual jog up the stair , then extend his left hand to touch the handrail before continue upstairs .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train2363.txt
+The person go downstairs , raise his right arm and waving , then drop it back down and continued descending .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train2399.txt
+Person bent , touch ground , raise and low arm , kick right foot , go downstairs , lift arm to head , drop them .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train2399.txt
+This person bend down and touch the ground , stand up , raise and low his arm horizontally , then kick his right foot to the right side , afterwards go downstairs while lift his arm to the head and eventually drop them down .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train2399.txt
+Person bend down , stand , raise and low arm , kick right foot , go downstairs , lift arm , drop them .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train2400.txt
+Person bent , touch ground , raise and low arm , kick right foot , go downstairs , lift arm to head , drop them .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train2551.txt
+He descend stairs lightly , hand on rail for support .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train2552.txt
+He descend stairs lightly , hand on rail for support .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train2716.txt
+Person walk to stairs , hand at chest . Climbed stair , hand shift to side .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train2718.txt
+A person walk to stairs , put hand on railing and swung leave one behind , then stop and spin .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train2719.txt
+A person wave his left hand , step down the stairs towards those below .
+/storage/group/4dvlab/congpsh/Diff-Motion/MotionGPT/texts/train2720.txt
+A person wave his left hand , step down the stairs towards those below .
